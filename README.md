@@ -1,2 +1,2 @@
 # LeoWebPortal
-Leo Badminton Club Websolutions
+Leo Badminton Club digital portal Project
