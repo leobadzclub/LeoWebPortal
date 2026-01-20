@@ -1,4 +1,4 @@
-# Leo Badminton Club Website
+# Leo Badminton Club Website - Portal
 
 A comprehensive full-stack badminton club management platform built with Next.js 14, Firebase, and modern web technologies.
 
